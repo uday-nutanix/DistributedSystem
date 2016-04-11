@@ -1,0 +1,9 @@
+// To generate the RMI Server Skeleton and Clien Stub Clases, run the command given below 
+## rmic main.RMIServer
+
+Steps to Start the RMI Server
+## rmiregistry &
+## java main.RMIServer
+Registering as: "RMIServer"
+RMIServer ready...
+
